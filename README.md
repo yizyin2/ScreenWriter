@@ -26,7 +26,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/ScreenWriter.git
+git clone https://github.com/yizyin2/ScreenWriter.git
 cd ScreenWriter/ScreenWriter
 
 # 编译
