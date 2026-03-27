@@ -1,0 +1,32 @@
+# ===== Swift / SPM =====
+.build/
+.swiftpm/
+Package.resolved
+
+# ===== Xcode =====
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.playground/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ===== IDE =====
+.idea/
+*.swp
+*.swo
+*~
+.vscode/
+
+# ===== Archives =====
+*.tar.gz
+*.zip
